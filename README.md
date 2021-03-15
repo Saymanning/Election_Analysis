@@ -15,13 +15,13 @@ Examples of Code used:
 
 <img width="412" alt="Sample_code" src="https://user-images.githubusercontent.com/78699465/111098912-d1c62600-851a-11eb-809b-b0815994994b.png">
 
-Code Script used to find Total County Votes:
-
-<img width="176" alt="Total County votes" src="https://user-images.githubusercontent.com/78699465/111098934-dd195180-851a-11eb-9db3-db920ef3aa6b.png">
-
 Code Script used to find Largest County Turnout:
 
 <img width="373" alt="Largest_county_turnout" src="https://user-images.githubusercontent.com/78699465/111098947-e1456f00-851a-11eb-92fd-a015ef43ed18.png">
+
+Code Script used to find the winning candidate:
+
+<img width="473" alt="Winning_candidate_code" src="https://user-images.githubusercontent.com/78699465/111099127-37b2ad80-851b-11eb-8130-0917ed6b1f51.png">
 
 
 
