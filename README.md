@@ -14,7 +14,7 @@ A Colorade Board of Elections requested an election audit of a recent local cong
 ## Election Audit Results
 - There were 369,711 total votes cast in this congressional election
 
-Breakdown of the number of votes and the percentage of total votes for each county in the precint
+Breakdown of the number of votes and the percentage of total votes for each county in the precint:
 
 County Votes:
 - Jefferson: 10.5% (38,855)
@@ -23,7 +23,7 @@ County Votes:
 
 Denver County had the largest number of votes.
 
-Breakdown of the number of votes and the percentage of the total votes each candidate recieved.
+Breakdown of the number of votes and the percentage of the total votes each candidate recieved:
 
 - Charles Casper Stockham: 23.0% (85,213)
 - Diana DeGette: 73.8% (272,892)
