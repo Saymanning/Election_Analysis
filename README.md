@@ -1,42 +1,31 @@
-# Election_Analysis
-A Colorade Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+# Overview of Election Audit
+A Colorade Board of Elections requested an election audit of a recent local congressional election. The audit was completed and the election commission requested the following additional data.
 
-1. Calculate the total number of votes cast.
-2. Get a complete list of candidates who received votes.
-3. Calculate the total number of votes each candidate received.
-4. Calculate the percentage of votes each candidate won.
-5. Determine the winner of the election based on popular vote.
+1. The voter turnout for each county.
+2. The percetage of votes from each county out of the total count.
+3. The county with the highest turnout.
 
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code,???
 
-## Summary
-The analysis of the elections shows that:
--There were 369,711 votes cast in the election.
+## Election Audit Results
+- There were 369,711 total votes cast in this congressional election
+- Breakdown of the number of votes and the percentage of total votes for each county in the precint
 
--The candidates were: 
-  - Charles Casper Stockham
-  - Diana DeGette
-  - Raymon Anthony Doane 
-  
- -The canadidate results were:
-  - Charles Casper Stockham received 23.0% of the vote and 85,213 votes.
-  - Diana DeGette received 73.8% of the vote and 272,892 votes.
-  - Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
- 
--The winner of the election was:
+County Votes:
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
 
- Diana DeGette, who received 73.8% of the vote, and 272,892 votes.
-  
 
-## Challenge Overview
-A Colorade Board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election.
+- Denver County had the largest number of votes.
+- Breakdown of the number of votes and the percentage of the total votes each candidate recieved.
 
-## Challenge Summary
- Tasks completed for this challenge:
- 1. Calculated the total number of votes cast.
-2. Got a complete list of candidates who received votes.
-3. Calculated the total number of votes each candidate received.
-4. Calculated the percentage of votes each candidate won.
-5. Determined the winner of the election based on popular vote.
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+
+- Diana DeGette won the election, with 272,892 votes, and 73.8% of votes.
+
+## Election-Audit Summary
