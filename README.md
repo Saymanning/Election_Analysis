@@ -9,7 +9,7 @@ A Colorade Board of Elections requested an election audit of a recent local cong
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code
+- Software: Python 3.7.6, Visual Studio Code 1.54.2
 
 Examples of Code used:
 
