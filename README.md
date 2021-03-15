@@ -1,7 +1,7 @@
 # Election Analysis
 
 ## Overview of Election Audit
-A Colorade Board of Elections requested an election audit of a recent local congressional election. The audit was completed and the election commission requested the following additional data.
+A Colorade Board of Elections requested an election audit of a recent local congressional election. The audit was completed and the election commission requested additional data. Using Python the following data analysis result were provided to the election commission.
 
 1. The voter turnout for each county.
 2. The percetage of votes from each county out of the total count.
@@ -10,6 +10,19 @@ A Colorade Board of Elections requested an election audit of a recent local cong
 ## Resources
 - Data Source: election_results.csv
 - Software: Python 3.7.6, Visual Studio Code
+
+Examples of Code used:
+
+<img width="412" alt="Sample_code" src="https://user-images.githubusercontent.com/78699465/111098912-d1c62600-851a-11eb-809b-b0815994994b.png">
+
+Code Script used to find Total County Votes:
+
+<img width="176" alt="Total County votes" src="https://user-images.githubusercontent.com/78699465/111098934-dd195180-851a-11eb-9db3-db920ef3aa6b.png">
+
+Code Script used to find Largest County Turnout:
+
+<img width="373" alt="Largest_county_turnout" src="https://user-images.githubusercontent.com/78699465/111098947-e1456f00-851a-11eb-92fd-a015ef43ed18.png">
+
 
 
 ## Election Audit Results
