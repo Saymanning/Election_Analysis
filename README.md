@@ -1,4 +1,6 @@
-# Overview of Election Audit
+# Election Analysis
+
+## Overview of Election Audit
 A Colorade Board of Elections requested an election audit of a recent local congressional election. The audit was completed and the election commission requested the following additional data.
 
 1. The voter turnout for each county.
@@ -7,7 +9,7 @@ A Colorade Board of Elections requested an election audit of a recent local cong
 
 ## Resources
 - Data Source: election_results.csv
-- Software: Python 3.7.6, Visual Studio Code,???
+- Software: Python 3.7.6, Visual Studio Code
 
 ## Election Audit Results
 - There were 369,711 total votes cast in this congressional election
@@ -22,9 +24,9 @@ Arapahoe: 6.7% (24,801)
 - Denver County had the largest number of votes.
 - Breakdown of the number of votes and the percentage of the total votes each candidate recieved.
 
-Charles Casper Stockham: 23.0% (85,213)
-Diana DeGette: 73.8% (272,892)
-Raymon Anthony Doane: 3.1% (11,606)
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
 
 - Diana DeGette won the election, with 272,892 votes, and 73.8% of votes.
 
