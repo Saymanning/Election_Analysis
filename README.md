@@ -55,3 +55,5 @@ Diana DeGette won the election, with 272,892 votes, and 73.8% of vote
 
 
 ## Election-Audit Summary
+
+The script used in this analysis has proved to be very efficient and accurate in providing the data requested. By simply modifying the script, analysis could be provided for elections from the municipal elections, state senate elections or even gubernatorial elections just to name a few. 
